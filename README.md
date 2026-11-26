@@ -1,54 +1,63 @@
-Algorithm Application
+# Algorithm Application
 
-Group Project: Galahad Constante 
+**Group Project:** Galahad Constante  
+**University:** Universidad Central del Ecuador  
+**Program:** Information Systems Engineering – Fourth Semester  
+**Course:** Algorithms
 
-University: Universidad Central del Ecuador
-
-Program: Information Systems Engineering – Fourth Semester
-
-Course: Algorithms
-
-Project Description
+## Project Description
 
 This project focuses on algorithm complexity, iterative and recursive methods, sorting algorithms, and performance benchmarking.
 
-Project Structure
+## Project Structure
 
+```text
+Algorithm-Application/
+│
 ├── src/
-
 │   ├── Benchmark.java
-
 │   ├── Complexity.java
-
 │   ├── Iteration.java
-
 │   ├── Main.java
-
 │   ├── Recursion.java
-
 │   └── Sorting.java
+│
+├── results/
+│   ├── graphs/
+│   │   └── benchmark_results_final_graphs.xlsx
+│   │
+│   ├── tables/
+│   │   └── benchmark_results_final.xlsx
+│   │
+│   ├── screenshots/
+│   │   └── screenshots.pdf
+│   │
+│   └── report/
+│       └── practical report/
+│           └── Week3,4,5_galahadconstante.pdf
+│
+├── .gitignore
+└── README.md
+```
 
-├── resultados/
+## Technologies Used
 
-│   ├── tablas/
+- Java
+- IntelliJ IDEA
+- JDK
+- Microsoft Excel
+- Git and GitHub
 
-│   ├── graficos/
+## Project Results
 
-│   └── capturas/
+The project includes:
 
-└── informe/
+- Algorithm implementation and testing.
+- Benchmark performance measurements.
+- Comparative charts and tables.
+- Screenshots documenting program execution.
+- Practical project report.
 
-    └── informe-practico.pdf
-    
-
-Technologies Used
-
-Java
-
-IntelliJ IDEA
-
-JDK
-
-Authors
+## Author
 
 Galahad Constante
