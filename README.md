@@ -1,8 +1,11 @@
 Algorithm Application
 
 Group Project: Galahad Constante 
+
 University: Universidad Central del Ecuador
+
 Program: Information Systems Engineering – Fourth Semester
+
 Course: Algorithms
 
 Project Description
