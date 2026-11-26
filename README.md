@@ -15,18 +15,31 @@ This project focuses on algorithm complexity, iterative and recursive methods, s
 Project Structure
 
 ├── src/
+
 │   ├── Benchmark.java
+
 │   ├── Complexity.java
+
 │   ├── Iteration.java
+
 │   ├── Main.java
+
 │   ├── Recursion.java
+
 │   └── Sorting.java
+
 ├── resultados/
+
 │   ├── tablas/
+
 │   ├── graficos/
+
 │   └── capturas/
+
 └── informe/
+
     └── informe-practico.pdf
+    
 
 Technologies Used
 
